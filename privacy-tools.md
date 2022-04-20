@@ -14,3 +14,5 @@ order: 1
 |file uploader   |[Lufi](https://upload.disroot.org/)        |
 |password manager|[KeePassXC](https://keepassxc.org/)        |
 |2FA app         |[Tofu](https://www.tofuauth.com/)          |
+
+[Privacy Tools](https://www.privacytools.io)
