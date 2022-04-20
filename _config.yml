@@ -1,0 +1,22 @@
+title:               'Roberto CHEMAMA'
+tagline:             '@robchmm'
+description:         'Blog'
+url:                 'https://robertochemama.fr'
+baseurl:             ''
+paginate:            50
+permalink:           pretty
+
+author:
+  name:              Roberto CHEMAMA
+  url:
+  email:
+
+plugins:
+  - jekyll-paginate
+
+excerpt_separator:  <!--more-->
+
+links:
+  github:            https://github.com/robchmm
+  linkedin:          https://www.linkedin.com/in/roberto-chemama
+  rootme:            https://www.root-me.org/robchmm-529970
