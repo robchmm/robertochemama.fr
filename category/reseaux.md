@@ -1,4 +1,4 @@
 ---
 layout: category
-title: other
+title: réseaux
 ---
